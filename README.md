@@ -1,6 +1,8 @@
-# 🎬 CineScope Pro – Movie Discovery Platform
+## 🎬 CineScope Pro – Movie Discovery Platform
 
 CineScope Pro is a modern movie discovery platform built using React and TMDB API. Users can explore trending movies, view detailed movie information, check cast details, and enjoy a smooth responsive experience with authentication and dark mode support.
+
+### 🌐 Live Demo : [cinescope-by-lokesh.netlify.app](https://cinescope-by-lokesh.netlify.app/login)
 
 ---
 
@@ -114,18 +116,6 @@ npm run dev
 
 ---
 
-## 🌐 Live Demo
-
-https://cinescope-pro.netlify.app
-
----
-
-## 📸 Screenshots
-
-Add project screenshots here.
-
----
-
 ## 📈 Future Improvements
 
 - Firebase Authentication
@@ -139,8 +129,8 @@ Add project screenshots here.
 
 ## 👨‍💻 Author
 
-Your Name
+**LOKESH K**
 
-GitHub: https://github.com/yourusername
+GitHub: [https://github.com/Lokesh-Soft-Dev](https://github.com/Lokesh-Soft-Dev)
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: [https://linkedin.com/in/lokesh-k-990496378/](https://www.linkedin.com/in/lokesh-k-990496378/)
